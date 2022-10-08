@@ -1,0 +1,35 @@
+.stopwatch{
+ width: 600px;
+ height: 200px;
+ margin: 15rem auto;
+ justify-content: center;
+ padding: 0;
+ background-color: rgb(75, 206, 232);
+ text-align: center;
+ border-radius: 20px;
+}
+
+.time{
+ background-color: rgb(140, 213, 14);
+ font-size: 40px;
+ border-radius: 20px;
+
+}
+
+.controls button{
+ height: 30px;
+ background-color: aliceblue;
+ border-radius: 10px;
+ transition: 0.5s ease-in-out;
+ color: wheat;
+ background-color: blue;
+ margin: 50px auto;
+ margin-left: 10px;
+}
+
+.controls button:hover{
+ opacity: 0.2;
+ color: aqua;
+ 
+}
+
